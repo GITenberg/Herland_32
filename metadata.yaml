@@ -1,0 +1,44 @@
+_repo: Herland_32
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Gilman, Charlotte Perkins
+    aliases:
+    - Stetson, Charlotte Perkins
+    - Perkins, Charlotte Anna
+    birthdate: 1860
+    deathdate: 1935
+    gutenberg_agent_id: '27'
+    url: http://www.gutenberg.org/2009/agents/27
+    wikipedia: http://en.wikipedia.org/wiki/Charlotte_Perkins_Gilman
+description: "Herland is a utopian novel from 1915, written by feminist Charlotte\
+  \ Perkins Gilman. The book describes an isolated society composed entirely of women,\
+  \ who reproduce via parthenogenesis (asexual reproduction). The result is an ideal\
+  \ social order: free of war, conflict, and domination. It first appeared as a serial\
+  \ in The Forerunner, a magazine edited and written by Gilman between 1909 and 1916.\
+  \ The book is the middle volume in her utopian trilogy; it was preceded by Moving\
+  \ the Mountain (1911), and followed with a sequel, With Her in Ourland (1916). It\
+  \ was not published in book form until 1979.\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: Best Books Ever Listings
+gutenberg_issued: '2008-06-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32'
+  wikidata: Q5739278
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Women -- Fiction'
+- !lcsh 'Utopias -- Fiction'
+- !lcsh 'Black humor'
+- !lcc 'PS'
+- !lcsh 'Utopian fiction'
+- GITenberg
+title: Herland
+url: http://www.gutenberg.org/ebooks/32
+wikipedia:
+- https://fi.wikipedia.org/wiki/Herland
+- https://sh.wikipedia.org/wiki/Herland_(roman)
+- https://en.wikipedia.org/wiki/Herland_(novel)
